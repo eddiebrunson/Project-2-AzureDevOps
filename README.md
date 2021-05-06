@@ -5,7 +5,7 @@ This is the second project in the [Cloud DevOps using Microsoft Azure Nanodegree
 
 First, I used Github Actions along with a .txt file and application code to perform an initial lint, test, and install cycle on a machine learning application running in Flask in Azure App Services. Then, I integrated **Continuous Delivery** using Azure Pipelines to deploy tested application changes automatically to production. 
 
-Finally, I tested the prediction capability of my machine learning application deployed into production and built a [demo Youtube screenscast]() that demonstrates my proficiency in Continuous Delivery with Azure. 
+Finally, I tested the prediction capability of my machine learning application deployed into production and built a [demo Youtube screenscast](https://youtu.be/3ycthztk7DQ) that demonstrates my proficiency in Continuous Delivery with Azure. 
 
 ## Project Plan
 
@@ -241,6 +241,6 @@ The following are a few enhancements that can be made to this project:
 ## Demo 
 ____
 
-Here is a link to the [Youtube Project screencast]() I made walking through the main steps of this project. 
+Here is a link to the [Youtube Project screencast](https://youtu.be/3ycthztk7DQ) I made walking through the main steps of this project. 
 
 
