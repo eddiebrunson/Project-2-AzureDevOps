@@ -1,12 +1,13 @@
 # Overview
+[![Python application test with Github Actions](https://github.com/eddiebrunson/Project-2-AzureDevOps/actions/workflows/main.yml/badge.svg)](https://github.com/eddiebrunson/Project-2-AzureDevOps/actions/workflows/main.yml)
 
-<TODO: complete this with an overview of your project>
+This is the second project in the [Cloud DevOps using Microsoft Azure Nanodegree](https://www.udacity.com/course/cloud-devops-using-microsoft-azure-nanodegree--nd082). The project is called Building a CI/CD Pipeline, where I built a Continuous Delivery pipeline that deploys a *Flask Machine Learning application* using Azure Pipelines to Azure App Services. First, I used Github Actions along with a .txt file and application code to perform an initial lint, test, and install cycle on a machine learning application running in Flask in Azure App Services. Then, I integrated **Continuous Delivery** using Azure Pipelines to deploy tested application changes automatically to production. Finally, I tested the prediction capability of my machine learning application deployed into production and built a [demo Youtube screenscast]() that demonstrates my proficiency in Continuous Delivery with Azure. 
 
 ## Project Plan
-<TODO: Project Plan
 
-* A link to a Trello board for the project
-* A link to a spreadsheet that includes the original and final project plan>
+
+* Trello board for the project
+* Spreadsheet that includes the original and final project plan
 
 ## Instructions
 
