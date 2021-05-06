@@ -20,7 +20,8 @@ ___
  
 ## Architectural Diagrams (Shows how key parts of the system work)
 ___
-![Diagram](screenshots/Arch_Diagram.png)
+
+![Diagram](screenshots/Arch_diagram.png)
 
 
 ![Diagram2](screenshots/diagram2.png)
