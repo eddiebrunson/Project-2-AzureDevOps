@@ -241,6 +241,6 @@ The following are a few enhancements that can be made to this project:
 ## Demo 
 ____
 
-Here is a link to the [Youtube Project screencast](https://youtu.be/3ycthztk7DQ) I made walking through the main steps of this project. 
+Here is a link to the [Youtube Project screencast](https://youtu.be/3ycthztk7DQ) I made walking through the main steps of this project.  
 
 
